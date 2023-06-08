@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo 4.1</title>
+  <link rel="stylesheet" href="./css/ex4_1.css">
+</head>
+
+<body>
+  <main>
+
+    <section class="formulario">
+      <h1>Programa Cálcula Média</h1>
+      <form action="">
+        <p>Nome :
+          <input type="text" id="inNome" required>
+        </p>
+        <p>Nota 01:
+          <input type="text" step="0.1" min="0" max="10" id="inNota1" required>
+        </p>
+        <p>Nota 02:
+          <input type="text" step="0.1" min="0" max="10" id="inNota2" required>
+        </p>
+        <div class="dvBtn">
+
+          <input class="botao" type="submit" value="Calcular Média">
+        </div>
+      </form>
+    </section>
+
+    <section class="respostas">
+      <h2>A sua média é:</h2>
+      <h3></h3>
+      <h4></h4>
+    </section>
+
+  </main>
+  <script src="./js/ex4_1.js"></script>
+</body>
+
+</html>
