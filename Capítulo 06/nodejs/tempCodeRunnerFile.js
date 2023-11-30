@@ -1,0 +1,1 @@
+a preferencial\n" + "-".repeat(40))
