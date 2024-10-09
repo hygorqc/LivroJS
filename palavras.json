@@ -1,0 +1,394 @@
+[
+  {
+    "palavra": "aqui",
+    "dica": "indica um local próximo"
+  },
+  {
+    "palavra": "amor",
+    "dica": "sentimento profundo de afeto"
+  },
+  {
+    "palavra": "casa",
+    "dica": "local onde se mora"
+  },
+  {
+    "palavra": "lua",
+    "dica": "satélite da Terra"
+  },
+  {
+    "palavra": "sol",
+    "dica": "estrela do nosso sistema solar"
+  },
+  {
+    "palavra": "água",
+    "dica": "líquido essencial para a vida"
+  },
+  {
+    "palavra": "paz",
+    "dica": "estado de tranquilidade"
+  },
+  {
+    "palavra": "feliz",
+    "dica": "estado de contentamento"
+  },
+  {
+    "palavra": "trabalho",
+    "dica": "atividade para gerar renda"
+  },
+  {
+    "palavra": "sonho",
+    "dica": "imagem ou ideia durante o sono"
+  },
+  {
+    "palavra": "sorriso",
+    "dica": "expressão de alegria"
+  },
+  {
+    "palavra": "amigo",
+    "dica": "pessoa próxima e de confiança"
+  },
+  {
+    "palavra": "tempo",
+    "dica": "duração de eventos"
+  },
+  {
+    "palavra": "música",
+    "dica": "arte sonora organizada"
+  },
+  {
+    "palavra": "livro",
+    "dica": "coleção de folhas impressas"
+  },
+  {
+    "palavra": "carro",
+    "dica": "veículo motorizado de transporte"
+  },
+  {
+    "palavra": "viagem",
+    "dica": "deslocamento para outro lugar"
+  },
+  {
+    "palavra": "natureza",
+    "dica": "mundo físico e suas criaturas"
+  },
+  {
+    "palavra": "mãe",
+    "dica": "figura materna da família"
+  },
+  {
+    "palavra": "pai",
+    "dica": "figura paterna da família"
+  },
+  {
+    "palavra": "escola",
+    "dica": "instituição de ensino"
+  },
+  {
+    "palavra": "coração",
+    "dica": "órgão responsável pela circulação"
+  },
+  {
+    "palavra": "esperança",
+    "dica": "crença em um futuro melhor"
+  },
+  {
+    "palavra": "risada",
+    "dica": "som da alegria"
+  },
+  {
+    "palavra": "café",
+    "dica": "bebida feita a partir de grãos"
+  },
+  {
+    "palavra": "férias",
+    "dica": "período de descanso"
+  },
+  {
+    "palavra": "saudade",
+    "dica": "nostalgia de algo ou alguém"
+  },
+  {
+    "palavra": "jardim",
+    "dica": "espaço com plantas e flores"
+  },
+  {
+    "palavra": "arte",
+    "dica": "expressão criativa do ser humano"
+  },
+  {
+    "palavra": "cultura",
+    "dica": "conjunto de valores e tradições"
+  },
+  {
+    "palavra": "riso",
+    "dica": "expressão de diversão"
+  },
+  {
+    "palavra": "coragem",
+    "dica": "capacidade de enfrentar medos"
+  },
+  {
+    "palavra": "sabedoria",
+    "dica": "conhecimento profundo"
+  },
+  {
+    "palavra": "liberdade",
+    "dica": "estado de ser livre"
+  },
+  {
+    "palavra": "caminho",
+    "dica": "rota a ser seguida"
+  },
+  {
+    "palavra": "história",
+    "dica": "narrativa de eventos passados"
+  },
+  {
+    "palavra": "inverno",
+    "dica": "estação mais fria do ano"
+  },
+  {
+    "palavra": "verão",
+    "dica": "estação mais quente do ano"
+  },
+  {
+    "palavra": "primavera",
+    "dica": "estação das flores"
+  },
+  {
+    "palavra": "outono",
+    "dica": "estação das folhas secas"
+  },
+  {
+    "palavra": "solicitude",
+    "dica": "atitude de cuidado e preocupação"
+  },
+  {
+    "palavra": "compaixão",
+    "dica": "sentimento de empatia"
+  },
+  {
+    "palavra": "gentileza",
+    "dica": "ato de bondade"
+  },
+  {
+    "palavra": "solidão",
+    "dica": "estado de estar sozinho"
+  },
+  {
+    "palavra": "conhecimento",
+    "dica": "informação adquirida"
+  },
+  {
+    "palavra": "experiência",
+    "dica": "vivência que traz aprendizado"
+  },
+  {
+    "palavra": "futuro",
+    "dica": "o que está por vir"
+  },
+  {
+    "palavra": "presente",
+    "dica": "o momento atual"
+  },
+  {
+    "palavra": "passado",
+    "dica": "o que já aconteceu"
+  },
+  {
+    "palavra": "destino",
+    "dica": "caminho que a vida toma"
+  },
+  {
+    "palavra": "caminhada",
+    "dica": "ação de andar para um destino"
+  },
+  {
+    "palavra": "festival",
+    "dica": "evento de celebração"
+  },
+  {
+    "palavra": "relacionamento",
+    "dica": "conexão entre pessoas"
+  },
+  {
+    "palavra": "decisão",
+    "dica": "ato de escolher"
+  },
+  {
+    "palavra": "desafio",
+    "dica": "situação difícil a ser superada"
+  },
+  {
+    "palavra": "transformação",
+    "dica": "mudança significativa"
+  },
+  {
+    "palavra": "conexão",
+    "dica": "ligação entre pessoas ou coisas"
+  },
+  {
+    "palavra": "misticismo",
+    "dica": "busca por experiências transcendentais"
+  },
+  {
+    "palavra": "universo",
+    "dica": "totalidade do espaço e tempo"
+  },
+  {
+    "palavra": "maturidade",
+    "dica": "estado de pleno desenvolvimento"
+  },
+  {
+    "palavra": "desejo",
+    "dica": "anseio por algo"
+  },
+  {
+    "palavra": "aventura",
+    "dica": "experiência emocionante"
+  },
+  {
+    "palavra": "exploração",
+    "dica": "ato de investigar"
+  },
+  {
+    "palavra": "mistério",
+    "dica": "algo desconhecido"
+  },
+  {
+    "palavra": "cuidado",
+    "dica": "atenção e zelo"
+  },
+  {
+    "palavra": "saúde",
+    "dica": "estado de bem-estar"
+  },
+  {
+    "palavra": "natureza",
+    "dica": "mundo natural ao nosso redor"
+  },
+  {
+    "palavra": "tecnologia",
+    "dica": "conhecimento aplicado à prática"
+  },
+  {
+    "palavra": "comunicação",
+    "dica": "ato de transmitir informação"
+  },
+  {
+    "palavra": "sucesso",
+    "dica": "conquista de um objetivo"
+  },
+  {
+    "palavra": "tradição",
+    "dica": "costume passado de geração em geração"
+  },
+  {
+    "palavra": "sabores",
+    "dica": "sensações gustativas"
+  },
+  {
+    "palavra": "aroma",
+    "dica": "cheiro agradável"
+  },
+  {
+    "palavra": "sabor",
+    "dica": "experiência de gosto"
+  },
+  {
+    "palavra": "festa",
+    "dica": "celebração com amigos"
+  },
+  {
+    "palavra": "relaxamento",
+    "dica": "processo de aliviar tensões"
+  },
+  {
+    "palavra": "diversão",
+    "dica": "entretenimento"
+  },
+  {
+    "palavra": "pintura",
+    "dica": "arte de aplicar tinta"
+  },
+  {
+    "palavra": "escultura",
+    "dica": "arte de moldar materiais"
+  },
+  {
+    "palavra": "cinema",
+    "dica": "arte de contar histórias em filme"
+  },
+  {
+    "palavra": "literatura",
+    "dica": "arte da escrita"
+  },
+  {
+    "palavra": "poesia",
+    "dica": "expressão literária com rimas"
+  },
+  {
+    "palavra": "desenho",
+    "dica": "arte de traçar linhas"
+  },
+  {
+    "palavra": "futebol",
+    "dica": "jogo popular com bola"
+  },
+  {
+    "palavra": "basquete",
+    "dica": "jogo com bola em uma cesta"
+  },
+  {
+    "palavra": "natação",
+    "dica": "ação de nadar"
+  },
+  {
+    "palavra": "esporte",
+    "dica": "atividade física competitiva"
+  },
+  {
+    "palavra": "jogo",
+    "dica": "atividade recreativa"
+  },
+  {
+    "palavra": "fantasia",
+    "dica": "imaginação criativa"
+  },
+  {
+    "palavra": "realidade",
+    "dica": "estado das coisas como são"
+  },
+  {
+    "palavra": "sustentabilidade",
+    "dica": "uso consciente dos recursos"
+  },
+  {
+    "palavra": "solidariedade",
+    "dica": "ajuda mútua entre pessoas"
+  },
+  {
+    "palavra": "união",
+    "dica": "ato de se juntar"
+  },
+  {
+    "palavra": "esperança",
+    "dica": "confiança em dias melhores"
+  },
+  {
+    "palavra": "otimismo",
+    "dica": "atitude positiva"
+  },
+  {
+    "palavra": "caminho",
+    "dica": "rota a seguir"
+  },
+  {
+    "palavra": "destino",
+    "dica": "lugar aonde se vai"
+  },
+  {
+    "palavra": "destino",
+    "dica": "o que está reservado para você"
+  }
+]
